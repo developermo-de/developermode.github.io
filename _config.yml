@@ -1,0 +1,11 @@
+# Site settings
+title: DeveloperMo.de
+email: hi@developermo.de
+description: > # this means to ignore newlines until "baseurl:"
+  A few of us sat down and decided to challenge ourselves into learning a bunch of new stuff. Every week, over the next year, each of us will learn something new in the CS sphere to the extent where we can teach it to somebody else. Once done, we'll do just that; Each of us will teach another developermo.de member what we learnt so that he can write our blog post.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://developermo.de" # the base hostname & protocol for your site
+github_username:  developermode
+
+# Build settings
+markdown: kramdown
